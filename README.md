@@ -119,7 +119,7 @@ Data engineering / analysis project focused on detecting fraudulent financial tr
 
 `Python` `PySpark` `Airflow` `PostgreSQL` `ETL` `Data Processing` `APIs` `Docker`
 
-[🔗 Repository](#) <!-- ADD YOUR REPO LINK HERE -->
+[🔗 Repository](https://github.com/Adeiltonkali/Financial_fraud_detection) <!-- ADD YOUR REPO LINK HERE -->
 
 </td>
 <td width="50%" valign="top">
@@ -130,7 +130,7 @@ An ETL pipeline that collects data from external APIs, transforms and processes 
 
 `Python` `Pandas` `PostgreSQL` `APIs`
 
-[🔗 Repository](#) <!-- ADD YOUR REPO LINK HERE -->
+[🔗 Repository](https://github.com/Adeiltonkali/Basic-Pipeline-ETL) <!-- ADD YOUR REPO LINK HERE -->
 
 </td>
 </tr>
